@@ -11,9 +11,9 @@ can be reviewed and reproduced.
 
 
 ## Projects
-
-- [Windows Security Monitoring with Event Viewer and Sysmon]
-  - Status: In progress.
+- [Windows Linux Administration Lab](https://github.com/afthuab/windows-linux-system-administration-lab.git)
+- [Driving Style Clustering (Aggressive vs Eco)](https://github.com/afthuab/driving-style-clustering.git)
+- Windows Security Monitoring with Event Viewer and Sysmon (status: In progress)
 
 ## Professional Background
 
