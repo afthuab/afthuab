@@ -10,7 +10,7 @@ findings, limitations, and lessons learned so that my work
 can be reviewed and reproduced.
 
 
-## Cybersecurity Projects
+## Projects
 
 - [Windows Security Monitoring with Event Viewer and Sysmon]
   - Status: In progress.
