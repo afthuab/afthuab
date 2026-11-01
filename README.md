@@ -2,7 +2,7 @@
 
 **CSE Graduate (VTU, September 2026) | IT Support Specialist | Aspiring SOC Analyst**
 
-I am an IT professional with a background in Computer Science and hands-on experience troubleshooting Windows/Linux environments. I am actively building practical blue-team and SOC investigation skills focusing on endpoint log analysis, network forensics, open source intelligence and SIEM alert triage.
+I am a Computer Science and Engineering graduate with a strong interest in cybersecurity, particularly in Security Operations, threat detection, and incident response. I possess analytical thinking, problem-solving, troubleshooting, and attention-to-detail skills, and I am committed to continuously developing my technical knowledge in networking, operating systems, and security tools. I aspire to contribute to an organization's security operations by monitoring systems, identifying potential threats, investigating suspicious activities, and supporting incident response efforts to protect sensitive information and strengthen its overall security posture.
 
 
 I document my home labs, investigation steps, evidence,
