@@ -16,7 +16,7 @@ can be reviewed and reproduced.
 - Windows Security Monitoring with Event Viewer and Sysmon (in progress)
 
 ## Certifications & Professional Learning
-- Google Cybersecurity Professional Certificate – [View Course Documentation](https://github.com/afthuab/google-cybersecurity-professional-certificate.git)
+- Google Cybersecurity Professional Course – [View Course Documentation](https://github.com/afthuab/google-cybersecurity-professional-certificate.git)
 - Cisco Networking Academy – Introduction to Cybersecurity [View Certificate](https://www.credly.com/badges/e8b4d299-209a-4a49-b2c8-7c0f9d5a9f72/public_url)
 
 ## Professional Background
