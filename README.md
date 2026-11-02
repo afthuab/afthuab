@@ -26,12 +26,6 @@ can be reviewed and reproduced.
 - Computer Science and Engineering Graduate
   (September 2026)
 
-## How I Approach Projects
-
-I aim to document the environment, reproduce the investigation,
-preserve relevant evidence safely, explain my conclusions,
-identify limitations, and avoid unsupported claims.
-
 ## Contact
 
 - **LinkedIn**: https://www.linkedin.com/in/afthababdulla/
